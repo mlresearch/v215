@@ -1,0 +1,94 @@
+---
+booktitle: 'Proceedings of the Thirteenth International Symposium on Imprecise Probability:
+  Theories and Applications'
+shortname: ISIPTA
+sections:
+- name: Preface
+  title: Preface
+- name: Papers
+  title: Papers
+volume: '215'
+year: '2023'
+start: 2023-07-11
+end: 2023-07-14
+published: 2023-07-10
+conference_number: '13'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ISIPTA-2023
+month: 0
+cycles: false
+bibtex_editor: Miranda, Enrique and Montes, Ignacio and Quaeghebeur, Erik and Vantaggi,
+  Barbara
+editor:
+- given: Enrique
+  family: Miranda
+- given: Ignacio
+  family: Montes
+- given: Erik
+  family: Quaeghebeur
+- given: Barbara
+  family: Vantaggi
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Thirteenth International Symposium on Imprecise Probability: Theories and Applications
+    Held in Oviedo, Spain on 11-14 July 2023
+
+  Published as Volume 215 by the Proceedings of Machine Learning Research on 10 July 2023.
+
+  Volume Edited by:
+    Enrique Miranda
+    Ignacio Montes
+    Erik Quaeghebeur
+    Barbara Vantaggi
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 11--14 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v215"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v215
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v215
+email: ''
+conference:
+  name: 'International Symposium on Imprecise Probability: Theories and Applications'
+  url: https://isipta23.sipta.org/
+  location: Oviedo, Spain
+  dates:
+  - 2023-07-11
+  - 2023-07-12
+  - 2023-07-13
+  - 2023-07-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v215/isipta2023.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v215/isipta2023.bib
